@@ -1,0 +1,1045 @@
+2018-01-04 16:10:36,600 cast_time:0.467481851578	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'     and b.deleted=0
+2018-01-04 16:11:45,081 cast_time:0.522976875305	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 16:11:59,164 cast_time:0.498790979385	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 16:12:25,257 cast_time:0.432362794876	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 16:12:47,167 cast_time:0.530574083328	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 16:17:47,868 cast_time:0.660144090652	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 16:18:58,122 cast_time:0.856813907623	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 16:19:09,701 cast_time:0.150186061859	sql:select lat, lng, carno from real_position where dt=20180103 limit 100000
+2018-01-04 16:19:13,290 cast_time:0.599894046783	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 16:20:52,775 cast_time:0.339866876602	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 16:24:00,580 cast_time:0.441514968872	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 16:24:16,531 cast_time:0.905040979385	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 16:54:42,372 cast_time:0.782713890076	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='上海市'               and b.deleted=0
+2018-01-04 16:54:58,111 cast_time:0.356112957001	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 16:55:25,030 cast_time:0.72585105896	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 17:04:31,379 cast_time:0.485702991486	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 17:04:35,537 cast_time:0.343669891357	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 17:09:09,969 cast_time:1.90011191368	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 17:11:59,126 cast_time:0.525902986526	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 17:12:33,821 cast_time:0.579402208328	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 17:13:02,759 cast_time:0.859714031219	sql:select b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 17:14:35,312 cast_time:0.430098056793	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 17:15:38,901 cast_time:0.504833936691	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 17:43:51,672 cast_time:0.795826911926	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 17:44:13,377 cast_time:0.512524843216	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 17:51:10,073 cast_time:0.464873075485	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 17:52:50,620 cast_time:0.499418973923	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 17:55:23,552 cast_time:0.915143013	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 17:55:45,194 cast_time:0.367302179337	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 17:55:53,936 cast_time:0.329221010208	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='上海市'               and b.deleted=0
+2018-01-04 17:57:35,391 cast_time:0.754591226578	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 17:58:09,959 cast_time:0.546380996704	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 18:03:30,406 cast_time:0.777360916138	sql:select name from t_rail where id=21816 
+2018-01-04 18:04:47,180 cast_time:0.177349090576	sql:select name from t_rail where id=21816 
+2018-01-04 18:05:14,908 cast_time:0.182203054428	sql:select name from t_rail where id=21816 
+2018-01-04 18:05:58,297 cast_time:0.17106294632	sql:select name from t_rail where id=21816 
+2018-01-04 18:06:32,466 cast_time:0.184355974197	sql:select name from t_rail where id=21816 
+2018-01-04 19:01:20,329 cast_time:0.155534029007	sql:select name from t_rail where id=21816 
+2018-01-04 19:01:29,753 cast_time:0.169342041016	sql:select name from t_rail where id=21816 
+2018-01-04 19:46:19,310 cast_time:1.00305891037	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 19:49:28,624 cast_time:0.376585006714	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 19:49:51,513 cast_time:0.320000886917	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 19:50:42,308 cast_time:0.447729110718	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 19:51:07,545 cast_time:0.339648008347	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 19:51:17,549 cast_time:0.476722002029	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 19:51:32,625 cast_time:0.843966960907	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 19:52:58,319 cast_time:1.60015487671	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 19:58:53,711 cast_time:0.376042842865	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 19:59:13,993 cast_time:0.505780935287	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 19:59:37,414 cast_time:0.498380899429	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:00:14,792 cast_time:0.433854103088	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:03:42,217 cast_time:0.931933879852	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:06:17,250 cast_time:1.63110113144	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:06:48,666 cast_time:0.501806020737	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:07:31,741 cast_time:0.473330020905	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:22:44,021 cast_time:0.842689990997	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:23:22,540 cast_time:0.333303928375	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:23:59,054 cast_time:0.451694965363	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:26:32,232 cast_time:0.461145877838	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:26:46,859 cast_time:1.12138295174	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:28:49,939 cast_time:1.15227389336	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:31:01,950 cast_time:0.548691034317	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:35:22,743 cast_time:0.804116010666	sql:select lat, lng, carno from real_position where dt=20180103 limit 100000
+2018-01-04 20:35:23,322 cast_time:0.565325975418	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:35:26,146 cast_time:0.122474193573	sql:select lat, lng, carno from real_position where dt=20180103 limit 100000
+2018-01-04 20:35:27,691 cast_time:0.399438142776	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:37:26,263 cast_time:0.62513589859	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:40:41,952 cast_time:0.395271062851	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:41:25,264 cast_time:0.286263942719	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:41:47,961 cast_time:0.468271017075	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:42:27,318 cast_time:1.21419906616	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:43:21,370 cast_time:0.461139917374	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:43:25,941 cast_time:0.510433912277	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:44:23,696 cast_time:0.469637155533	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:44:35,426 cast_time:0.746869087219	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:44:57,704 cast_time:0.369048118591	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:45:15,058 cast_time:0.335829019547	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:45:23,600 cast_time:0.854161024094	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:45:31,950 cast_time:0.485037088394	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:45:40,464 cast_time:0.346163034439	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:45:47,738 cast_time:0.410439014435	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:46:05,361 cast_time:0.342517852783	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:46:16,310 cast_time:1.06729412079	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:48:34,964 cast_time:0.351469039917	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:48:58,216 cast_time:0.341258049011	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:50:04,372 cast_time:0.308859825134	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:52:46,084 cast_time:0.474112987518	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:56:30,331 cast_time:1.03694009781	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:58:02,835 cast_time:0.350556850433	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:58:34,442 cast_time:0.533844947815	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-04 20:59:04,569 cast_time:0.380870819092	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 10:12:42,665 cast_time:0.613649845123	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 10:34:27,817 cast_time:1.30106520653	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 10:36:41,188 cast_time:0.399667024612	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 10:43:41,510 cast_time:0.397094011307	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 10:45:15,182 cast_time:0.597250938416	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 10:46:48,908 cast_time:0.361483097076	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 10:46:51,627 cast_time:1.30443406105	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 10:47:27,747 cast_time:0.364191055298	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 10:47:37,410 cast_time:0.366349935532	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 10:47:45,961 cast_time:0.261412858963	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 12:15:36,750 cast_time:0.406150102615	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 12:17:55,408 cast_time:0.472076177597	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 12:21:28,127 cast_time:0.424329042435	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 14:25:16,397 cast_time:0.789055109024	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 14:27:05,205 cast_time:0.338128805161	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 14:33:44,377 cast_time:0.972465991974	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 14:36:36,205 cast_time:0.345968961716	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 14:46:58,568 cast_time:0.671264886856	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 14:48:17,592 cast_time:0.332096099854	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 14:48:57,582 cast_time:0.442082166672	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 14:49:29,053 cast_time:0.311292886734	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 14:50:10,015 cast_time:0.872979879379	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 14:50:54,664 cast_time:0.877609014511	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 14:55:29,775 cast_time:0.170907020569	sql:select name from t_rail where id=21816 
+2018-01-05 14:55:47,652 cast_time:0.169008016586	sql:select name from t_rail where id=21364 
+2018-01-05 14:57:08,110 cast_time:0.171175003052	sql:select name from t_rail where id=21364 
+2018-01-05 15:00:07,202 cast_time:0.472843885422	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 15:00:49,261 cast_time:0.335557937622	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 15:00:53,740 cast_time:0.157799959183	sql:select name from t_rail where id=21392 
+2018-01-05 15:00:55,824 cast_time:0.111984014511	sql:select name from t_rail where id=21363 
+2018-01-05 15:00:57,512 cast_time:0.154516935349	sql:select name from t_rail where id=21364 
+2018-01-05 15:01:00,267 cast_time:0.137017965317	sql:select name from t_rail where id=21359 
+2018-01-05 15:01:01,912 cast_time:0.146004915237	sql:select name from t_rail where id=21357 
+2018-01-05 15:01:03,511 cast_time:0.206781864166	sql:select name from t_rail where id=28088 
+2018-01-05 15:01:05,191 cast_time:0.141525030136	sql:select name from t_rail where id=22564 
+2018-01-05 15:01:06,378 cast_time:0.143915891647	sql:select name from t_rail where id=22576 
+2018-01-05 15:01:09,168 cast_time:0.189021110535	sql:select name from t_rail where id=21479 
+2018-01-05 15:01:10,354 cast_time:0.147501945496	sql:select name from t_rail where id=21484 
+2018-01-05 15:01:11,734 cast_time:0.124894857407	sql:select name from t_rail where id=21493 
+2018-01-05 15:01:12,082 cast_time:0.169183015823	sql:select name from t_rail where id=21493 
+2018-01-05 15:01:13,031 cast_time:0.115118980408	sql:select name from t_rail where id=29230 
+2018-01-05 15:12:40,386 cast_time:0.33828997612	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 15:26:21,355 cast_time:0.149192094803	sql:select name from t_rail where id=21364 
+2018-01-05 15:26:23,594 cast_time:0.179113149643	sql:select name from t_rail where id=21364 
+2018-01-05 15:26:23,835 cast_time:0.220114946365	sql:select name from t_rail where id=21371 
+2018-01-05 15:26:25,470 cast_time:0.128352880478	sql:select name from t_rail where id=21364 
+2018-01-05 15:26:29,690 cast_time:1.0502269268	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 15:26:35,970 cast_time:0.128684043884	sql:select name from t_rail where id=21364 
+2018-01-05 15:26:38,621 cast_time:0.836479187012	sql:select name from t_rail where id=21392 
+2018-01-05 15:26:41,220 cast_time:0.138909101486	sql:select name from t_rail where id=21371 
+2018-01-05 15:26:41,855 cast_time:0.12075304985	sql:select name from t_rail where id=21371 
+2018-01-05 15:26:42,542 cast_time:0.144119977951	sql:select name from t_rail where id=22576 
+2018-01-05 15:26:43,658 cast_time:0.115332126617	sql:select name from t_rail where id=22564 
+2018-01-05 15:26:43,838 cast_time:0.117621898651	sql:select name from t_rail where id=22564 
+2018-01-05 15:26:44,876 cast_time:0.186334848404	sql:select name from t_rail where id=28081 
+2018-01-05 15:26:46,109 cast_time:0.108179092407	sql:select name from t_rail where id=29369 
+2018-01-05 15:26:46,355 cast_time:0.209814071655	sql:select name from t_rail where id=29369 
+2018-01-05 15:26:48,228 cast_time:0.102905988693	sql:select name from t_rail where id=28088 
+2018-01-05 15:26:52,031 cast_time:0.137942075729	sql:select name from t_rail where id=29369 
+2018-01-05 15:26:53,313 cast_time:0.10354590416	sql:select name from t_rail where id=29369 
+2018-01-05 15:26:54,134 cast_time:0.102643013	sql:select name from t_rail where id=29369 
+2018-01-05 15:26:55,338 cast_time:0.112696886063	sql:select name from t_rail where id=28088 
+2018-01-05 15:26:57,236 cast_time:0.0980141162872	sql:select name from t_rail where id=21359 
+2018-01-05 15:26:59,288 cast_time:0.0996270179749	sql:select name from t_rail where id=29369 
+2018-01-05 15:26:59,412 cast_time:0.0963349342346	sql:select name from t_rail where id=21359 
+2018-01-05 15:27:01,005 cast_time:0.0875039100647	sql:select name from t_rail where id=21364 
+2018-01-05 15:27:02,309 cast_time:0.0906481742859	sql:select name from t_rail where id=21359 
+2018-01-05 15:27:05,067 cast_time:0.108433008194	sql:select name from t_rail where id=21364 
+2018-01-05 15:27:07,247 cast_time:0.115149974823	sql:select name from t_rail where id=21359 
+2018-01-05 15:27:10,046 cast_time:0.112951040268	sql:select name from t_rail where id=28088 
+2018-01-05 15:27:12,493 cast_time:0.11275100708	sql:select name from t_rail where id=21359 
+2018-01-05 15:27:14,644 cast_time:0.0985579490662	sql:select name from t_rail where id=21364 
+2018-01-05 15:53:43,865 cast_time:1.82213807106	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 15:53:47,257 cast_time:0.152318000793	sql:select name from t_rail where id=21364 
+2018-01-05 15:53:50,162 cast_time:0.128710031509	sql:select name from t_rail where id=21373 
+2018-01-05 15:53:53,024 cast_time:0.0805759429932	sql:select name from t_rail where id=21392 
+2018-01-05 15:53:56,004 cast_time:0.125658988953	sql:select name from t_rail where id=21364 
+2018-01-05 15:53:56,107 cast_time:0.0827510356903	sql:select name from t_rail where id=21363 
+2018-01-05 15:53:58,805 cast_time:0.0854198932648	sql:select name from t_rail where id=21392 
+2018-01-05 15:54:00,788 cast_time:0.101925134659	sql:select name from t_rail where id=21363 
+2018-01-05 15:54:00,979 cast_time:0.10644698143	sql:select name from t_rail where id=21364 
+2018-01-05 15:54:04,380 cast_time:0.0862798690796	sql:select name from t_rail where id=21363 
+2018-01-05 15:54:05,765 cast_time:0.162700891495	sql:select name from t_rail where id=21364 
+2018-01-05 15:54:10,453 cast_time:0.103081941605	sql:select name from t_rail where id=21364 
+2018-01-05 15:54:12,747 cast_time:0.104283094406	sql:select name from t_rail where id=21359 
+2018-01-05 15:54:14,907 cast_time:0.127425193787	sql:select name from t_rail where id=21373 
+2018-01-05 15:55:55,732 cast_time:0.897531986237	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 16:05:45,254 cast_time:0.42492890358	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 16:05:48,932 cast_time:0.0873579978943	sql:select name from t_rail where id=21363 
+2018-01-05 16:05:51,199 cast_time:0.19588804245	sql:select name from t_rail where id=21392 
+2018-01-05 16:07:36,734 cast_time:0.0910940170288	sql:select name from t_rail where id=21392 
+2018-01-05 16:07:59,959 cast_time:0.0971310138702	sql:select lat, lng, carno from real_position where dt=20180103 limit 100000
+2018-01-05 16:08:02,402 cast_time:0.358187913895	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 16:09:57,933 cast_time:0.681530952454	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 16:10:00,228 cast_time:0.100481033325	sql:select name from t_rail where id=21392 
+2018-01-05 16:10:01,592 cast_time:0.11256980896	sql:select name from t_rail where id=21363 
+2018-01-05 16:10:44,124 cast_time:0.444110155106	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 16:10:48,119 cast_time:0.0907788276672	sql:select name from t_rail where id=21392 
+2018-01-05 16:10:50,419 cast_time:0.118223190308	sql:select name from t_rail where id=21363 
+2018-01-05 16:10:51,694 cast_time:0.0998771190643	sql:select name from t_rail where id=21353 
+2018-01-05 16:13:10,423 cast_time:0.343095064163	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 16:13:13,447 cast_time:0.118350982666	sql:select name from t_rail where id=21392 
+2018-01-05 16:13:20,569 cast_time:0.0894541740417	sql:select name from t_rail where id=21364 
+2018-01-05 16:13:22,744 cast_time:0.0961298942566	sql:select name from t_rail where id=21359 
+2018-01-05 16:13:51,401 cast_time:0.893754005432	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 16:13:54,231 cast_time:0.0933752059937	sql:select name from t_rail where id=21364 
+2018-01-05 16:14:00,290 cast_time:0.605839014053	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 16:14:03,389 cast_time:0.0979290008545	sql:select name from t_rail where id=21392 
+2018-01-05 16:24:32,314 cast_time:0.32658290863	sql:select name from t_rail where id=25192 
+2018-01-05 16:28:43,095 cast_time:0.560361862183	sql:select name from t_rail where id=22594 
+2018-01-05 16:28:43,235 cast_time:0.116715192795	sql:select name from t_rail where id=21933 
+2018-01-05 16:28:43,915 cast_time:0.121159076691	sql:select name from t_rail where id=21389 
+2018-01-05 16:28:44,921 cast_time:0.114433050156	sql:select name from t_rail where id=21377 
+2018-01-05 16:28:45,872 cast_time:0.106296062469	sql:select name from t_rail where id=21344 
+2018-01-05 16:28:46,400 cast_time:0.121307134628	sql:select name from t_rail where id=21344 
+2018-01-05 16:28:46,904 cast_time:0.10687994957	sql:select name from t_rail where id=21334 
+2018-01-05 16:28:47,013 cast_time:0.0890209674835	sql:select name from t_rail where id=21334 
+2018-01-05 16:28:49,358 cast_time:0.127361059189	sql:select name from t_rail where id=21369 
+2018-01-05 16:28:49,543 cast_time:0.109873771667	sql:select name from t_rail where id=21392 
+2018-01-05 16:28:49,874 cast_time:0.140936136246	sql:select name from t_rail where id=21392 
+2018-01-05 16:28:50,322 cast_time:0.106957912445	sql:select name from t_rail where id=21507 
+2018-01-05 16:28:51,534 cast_time:0.1263859272	sql:select name from t_rail where id=21375 
+2018-01-05 16:28:52,292 cast_time:0.110198020935	sql:select name from t_rail where id=21596 
+2018-01-05 16:28:52,511 cast_time:0.10231590271	sql:select name from t_rail where id=21596 
+2018-01-05 16:28:52,758 cast_time:0.113012075424	sql:select name from t_rail where id=21589 
+2018-01-05 16:28:53,067 cast_time:0.0944881439209	sql:select name from t_rail where id=21357 
+2018-01-05 16:28:53,219 cast_time:0.0874330997467	sql:select name from t_rail where id=21925 
+2018-01-05 16:28:53,536 cast_time:0.0891060829163	sql:select name from t_rail where id=21923 
+2018-01-05 16:28:53,946 cast_time:0.20129108429	sql:select name from t_rail where id=22315 
+2018-01-05 16:28:54,939 cast_time:0.0942420959473	sql:select name from t_rail where id=21926 
+2018-01-05 16:28:55,052 cast_time:0.0911688804626	sql:select name from t_rail where id=21910 
+2018-01-05 16:28:55,521 cast_time:0.101315021515	sql:select name from t_rail where id=21481 
+2018-01-05 16:28:55,640 cast_time:0.0944018363953	sql:select name from t_rail where id=21344 
+2018-01-05 16:28:56,055 cast_time:0.101279973984	sql:select name from t_rail where id=21516 
+2018-01-05 16:28:58,940 cast_time:0.318070888519	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 16:29:01,980 cast_time:0.104325056076	sql:select name from t_rail where id=21392 
+2018-01-05 16:29:03,525 cast_time:0.0988991260529	sql:select name from t_rail where id=21364 
+2018-01-05 16:29:05,389 cast_time:0.110090970993	sql:select name from t_rail where id=21392 
+2018-01-05 16:29:05,492 cast_time:0.0819420814514	sql:select name from t_rail where id=21392 
+2018-01-05 16:29:06,212 cast_time:0.107542037964	sql:select name from t_rail where id=21363 
+2018-01-05 16:29:06,322 cast_time:0.0882349014282	sql:select name from t_rail where id=21363 
+2018-01-05 16:29:07,821 cast_time:0.0768280029297	sql:select name from t_rail where id=21392 
+2018-01-05 16:29:07,916 cast_time:0.0706739425659	sql:select name from t_rail where id=21392 
+2018-01-05 16:29:09,133 cast_time:0.0765209197998	sql:select name from t_rail where id=21363 
+2018-01-05 16:29:10,142 cast_time:0.088161945343	sql:select name from t_rail where id=21932 
+2018-01-05 16:29:18,414 cast_time:0.0718131065369	sql:select name from t_rail where id=21363 
+2018-01-05 16:29:21,272 cast_time:0.0993051528931	sql:select name from t_rail where id=21932 
+2018-01-05 16:29:22,069 cast_time:0.0781741142273	sql:select name from t_rail where id=21363 
+2018-01-05 16:29:52,738 cast_time:0.0887598991394	sql:select name from t_rail where id=21933 
+2018-01-05 16:29:55,428 cast_time:0.0659310817719	sql:select name from t_rail where id=21932 
+2018-01-05 16:29:56,283 cast_time:0.079628944397	sql:select name from t_rail where id=21363 
+2018-01-05 16:29:57,358 cast_time:0.0721340179443	sql:select name from t_rail where id=21932 
+2018-01-05 16:29:59,782 cast_time:0.0925669670105	sql:select name from t_rail where id=21932 
+2018-01-05 16:30:01,005 cast_time:0.0722711086273	sql:select name from t_rail where id=21933 
+2018-01-05 16:30:05,051 cast_time:0.0679850578308	sql:select name from t_rail where id=21373 
+2018-01-05 16:30:06,207 cast_time:0.0900638103485	sql:select name from t_rail where id=21371 
+2018-01-05 16:30:07,818 cast_time:0.0785419940948	sql:select name from t_rail where id=22576 
+2018-01-05 16:30:09,811 cast_time:0.0739941596985	sql:select name from t_rail where id=28187 
+2018-01-05 19:44:39,122 cast_time:0.270927906036	sql:select lat, lng, carno from real_position limit 10000
+2018-01-05 19:45:31,788 cast_time:0.320004940033	sql:select lat, lng, carno from real_position limit 10000
+2018-01-05 20:07:41,620 cast_time:0.304884910583	sql:select lat, lng, carno from real_position_zgd WHERE dt = 20180105 and mt = 1750 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39 116, 39 117, 40 117, 40 116))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 40 and lat > 39 
+        and lng < 117 and lng > 116 limit 8000
+2018-01-05 20:08:10,160 cast_time:0.293511152267	sql:select lat, lng, carno from real_position_zgd WHERE dt = 20180105 and mt = 1750 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39 116, 39 117, 40 117, 40 116))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 40 and lat > 39 
+        and lng < 117 and lng > 116 limit 8000
+2018-01-05 20:15:01,401 cast_time:0.400984048843	sql:select lat, lng, carno from real_position_zgd WHERE dt = 20180105 and mt = 1750 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39 116, 39 117, 40 117, 40 116))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 40 and lat > 39 
+        and lng < 117 and lng > 116 limit 8000
+2018-01-05 20:15:08,515 cast_time:0.662909030914	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:15:47,576 cast_time:0.702310085297	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:16:52,906 cast_time:1.45705795288	sql:select lat, lng, carno from real_position_zgd WHERE dt = 20180105 and mt = 1750 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39 116, 39 117, 40 117, 40 116))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 40 and lat > 39 
+        and lng < 117 and lng > 116 limit 8000
+2018-01-05 20:19:19,775 cast_time:0.71635389328	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:19:46,044 cast_time:0.773832082748	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:22:33,810 cast_time:1.02829885483	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:24:44,422 cast_time:1.33158802986	sql:select lat, lng, carno from real_position_zgd WHERE dt = 20180105 and mt = 1750 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39 116, 39 117, 40 117, 40 116))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 40 and lat > 39 
+        and lng < 117 and lng > 116 limit 8000
+2018-01-05 20:35:45,983 cast_time:0.134524106979	sql:select * from position_record
+2018-01-05 20:35:46,423 cast_time:0.438990116119	sql:select lat, lng, carno from real_position_zgd WHERE dt = 20180105 and mt = 1750 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39 116, 39 117, 40 117, 40 116))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 40 and lat > 39 
+        and lng < 117 and lng > 116 limit 8000
+2018-01-05 20:37:05,961 cast_time:0.0782151222229	sql:select * from position_record
+2018-01-05 20:37:06,128 cast_time:0.166082859039	sql:select lat, lng, carno from real_position_zgd WHERE dt = 1750 and mt = 20180105 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39 116, 39 117, 40 117, 40 116))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 40 and lat > 39 
+        and lng < 117 and lng > 116 limit 8000
+2018-01-05 20:37:45,428 cast_time:0.0991909503937	sql:select * from position_record
+2018-01-05 20:37:45,545 cast_time:0.116181135178	sql:select lat, lng, carno from real_position_zgd WHERE dt = 1750 and mt = 20180105 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39 116, 39 117, 40 117, 40 116))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 40 and lat > 39 
+        and lng < 117 and lng > 116 limit 8000
+2018-01-05 20:39:47,357 cast_time:1.55195498466	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:40:57,954 cast_time:1.06141996384	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:42:38,940 cast_time:0.106404066086	sql:select * from position_record
+2018-01-05 20:42:39,158 cast_time:0.217267990112	sql:select lat, lng, carno from real_position_zgd WHERE dt = 1750 and mt = 20180105 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39 116, 39 117, 40 117, 40 116))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 40 and lat > 39 
+        and lng < 117 and lng > 116 limit 8000
+2018-01-05 20:44:12,112 cast_time:0.0641958713531	sql:select * from position_record
+2018-01-05 20:44:12,528 cast_time:0.415921211243	sql:select lat, lng, carno from real_position_zgd WHERE dt = 20180105 and mt = 1750 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39 116, 39 117, 40 117, 40 116))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 40 and lat > 39 
+        and lng < 117 and lng > 116 limit 8000
+2018-01-05 20:44:58,981 cast_time:0.622627019882	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:45:51,361 cast_time:0.610424041748	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:46:07,371 cast_time:0.685751914978	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:47:21,165 cast_time:0.0843970775604	sql:select * from position_record
+2018-01-05 20:47:21,570 cast_time:0.40370798111	sql:select lat, lng, carno from real_position_zgd WHERE dt = 20180105 and mt = 1750 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39 116, 39 117, 40 117, 40 116))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 40 and lat > 39 
+        and lng < 117 and lng > 116 limit 8000
+2018-01-05 20:49:34,141 cast_time:0.984611988068	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:49:44,847 cast_time:0.907481193542	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:51:30,738 cast_time:0.636955022812	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:51:53,997 cast_time:0.789070129395	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:53:52,354 cast_time:0.760940074921	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:54:05,689 cast_time:0.588488101959	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:54:35,480 cast_time:0.87558889389	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:55:24,476 cast_time:0.55525302887	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:55:39,509 cast_time:0.954098939896	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:56:41,811 cast_time:0.89963388443	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:57:20,825 cast_time:0.911248922348	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:58:04,981 cast_time:0.666033029556	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:58:28,758 cast_time:0.692153930664	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 20:58:58,607 cast_time:0.569360971451	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:01:19,673 cast_time:0.084716796875	sql:select * from position_record
+2018-01-05 21:01:19,935 cast_time:0.260270833969	sql:select lat, lng, carno from real_position_zgd WHERE dt = 20180105 and mt = 1750 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39 116, 39 117, 40 117, 40 116))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 40 and lat > 39 
+        and lng < 117 and lng > 116 limit 8000
+2018-01-05 21:01:53,406 cast_time:0.610682010651	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:02:18,362 cast_time:0.550971984863	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:02:54,841 cast_time:0.769731998444	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:03:07,866 cast_time:0.763859033585	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:03:20,397 cast_time:0.690814971924	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:04:24,656 cast_time:0.0968489646912	sql:select * from position_record
+2018-01-05 21:04:49,237 cast_time:0.101916074753	sql:select * from position_record
+2018-01-05 21:04:49,524 cast_time:0.286994934082	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39 116, 39 117, 40 117, 40 116))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 40 and lat > 39 
+        and lng < 117 and lng > 116 limit 8000
+2018-01-05 21:04:50,480 cast_time:0.843820095062	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:05:31,525 cast_time:0.0787420272827	sql:select * from position_record
+2018-01-05 21:05:31,917 cast_time:0.392333030701	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39 116, 39 117, 40 117, 40 116))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 40 and lat > 39 
+        and lng < 117 and lng > 116 limit 8000
+2018-01-05 21:07:21,975 cast_time:0.564267873764	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:08:11,829 cast_time:0.869785070419	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 21:08:16,297 cast_time:0.0898480415344	sql:select name from t_rail where id=21364 
+2018-01-05 21:08:18,638 cast_time:0.0851740837097	sql:select name from t_rail where id=21359 
+2018-01-05 21:08:21,827 cast_time:0.155918836594	sql:select name from t_rail where id=21392 
+2018-01-05 21:08:24,715 cast_time:0.107485771179	sql:select name from t_rail where id=21363 
+2018-01-05 21:08:27,718 cast_time:0.670161008835	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:08:46,598 cast_time:0.34172296524	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 21:08:51,080 cast_time:0.0895390510559	sql:select name from t_rail where id=21364 
+2018-01-05 21:09:17,814 cast_time:0.105789899826	sql:select name from t_rail where id=21364 
+2018-01-05 21:09:36,898 cast_time:0.0963349342346	sql:select name from t_rail where id=21364 
+2018-01-05 21:09:45,295 cast_time:0.10261297226	sql:select name from t_rail where id=21359 
+2018-01-05 21:12:33,094 cast_time:0.0958549976349	sql:select name from t_rail where id=21371 
+2018-01-05 21:12:33,597 cast_time:0.320744037628	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-05 21:12:40,819 cast_time:0.149405002594	sql:select * from position_record
+2018-01-05 21:12:41,973 cast_time:1.15302300453	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39 116, 39 117, 40 117, 40 116))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 40 and lat > 39 
+        and lng < 117 and lng > 116 limit 8000
+2018-01-05 21:12:43,589 cast_time:0.872386932373	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:12:48,429 cast_time:0.0712099075317	sql:select * from position_record
+2018-01-05 21:12:48,641 cast_time:0.211829185486	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.915003 116.387748, 39.892122 116.387748, 39.892122 116.432638, 39.915003 116.432638))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.915003 and lat > 39.892122 
+        and lng < 116.432638 and lng > 116.387748 limit 8000
+2018-01-05 21:15:57,696 cast_time:0.133816003799	sql:select * from position_record
+2018-01-05 21:15:57,959 cast_time:0.260720968246	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39 116, 39 117, 40 117, 40 116))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 40 and lat > 39 
+        and lng < 117 and lng > 116 limit 8000
+2018-01-05 21:18:02,788 cast_time:0.184776067734	sql:select * from position_record
+2018-01-05 21:18:03,319 cast_time:0.529798030853	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39 116, 39 117, 40 117, 40 116))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 40 and lat > 39 
+        and lng < 117 and lng > 116 limit 8000
+2018-01-05 21:18:55,470 cast_time:0.764549016953	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:19:00,130 cast_time:0.100845098495	sql:select * from position_record
+2018-01-05 21:19:00,363 cast_time:0.232773065567	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.908617 116.397554, 39.897176 116.397554, 39.897176 116.419999, 39.908617 116.419999))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.908617 and lat > 39.897176 
+        and lng < 116.419999 and lng > 116.397554 limit 8000
+2018-01-05 21:19:41,332 cast_time:0.634804964066	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:19:44,805 cast_time:0.076416015625	sql:select * from position_record
+2018-01-05 21:19:45,047 cast_time:0.24107003212	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.913719 116.387877, 39.890838 116.387877, 39.890838 116.432766, 39.913719 116.432766))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.913719 and lat > 39.890838 
+        and lng < 116.432766 and lng > 116.387877 limit 8000
+2018-01-05 21:19:50,877 cast_time:0.0786340236664	sql:select * from position_record
+2018-01-05 21:19:51,118 cast_time:0.239954948425	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.907283 116.400043, 39.895843 116.400043, 39.895843 116.422488, 39.907283 116.422488))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.907283 and lat > 39.895843 
+        and lng < 116.422488 and lng > 116.400043 limit 8000
+2018-01-05 21:19:58,256 cast_time:0.0914258956909	sql:select * from position_record
+2018-01-05 21:19:58,871 cast_time:0.614990949631	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.904065 116.406084, 39.898345 116.406084, 39.898345 116.417306, 39.904065 116.417306))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.904065 and lat > 39.898345 
+        and lng < 116.417306 and lng > 116.406084 limit 8000
+2018-01-05 21:20:03,161 cast_time:0.0729348659515	sql:select * from position_record
+2018-01-05 21:20:03,907 cast_time:0.745352983475	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.902452 116.409147, 39.899592 116.409147, 39.899592 116.414758, 39.902452 116.414758))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.902452 and lat > 39.899592 
+        and lng < 116.414758 and lng > 116.409147 limit 8000
+2018-01-05 21:20:13,860 cast_time:0.0748519897461	sql:select * from position_record
+2018-01-05 21:20:14,214 cast_time:0.353497982025	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.905934 116.400569, 39.894493 116.400569, 39.894493 116.423014, 39.905934 116.423014))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.905934 and lat > 39.894493 
+        and lng < 116.423014 and lng > 116.400569 limit 8000
+2018-01-05 21:20:21,841 cast_time:0.0754890441895	sql:select * from position_record
+2018-01-05 21:20:22,319 cast_time:0.47798204422	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.910921 116.392308, 39.888039 116.392308, 39.888039 116.437197, 39.910921 116.437197))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.910921 and lat > 39.888039 
+        and lng < 116.437197 and lng > 116.392308 limit 8000
+2018-01-05 21:22:08,248 cast_time:0.63501906395	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:22:11,834 cast_time:0.130874872208	sql:select * from position_record
+2018-01-05 21:22:12,070 cast_time:0.235923051834	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.915826 116.388606, 39.892945 116.388606, 39.892945 116.433496, 39.915826 116.433496))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.915826 and lat > 39.892945 
+        and lng < 116.433496 and lng > 116.388606 limit 8000
+2018-01-05 21:22:17,735 cast_time:0.183815002441	sql:select * from position_record
+2018-01-05 21:22:25,097 cast_time:7.36118006706	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.915496 116.389121, 39.892616 116.389121, 39.892616 116.434011, 39.915496 116.434011))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.915496 and lat > 39.892616 
+        and lng < 116.434011 and lng > 116.389121 limit 8000
+2018-01-05 21:22:34,654 cast_time:1.09608507156	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:22:40,302 cast_time:0.0957639217377	sql:select * from position_record
+2018-01-05 21:22:40,543 cast_time:0.240865945816	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.909835 116.40382, 39.898395 116.40382, 39.898395 116.426265, 39.909835 116.426265))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.909835 and lat > 39.898395 
+        and lng < 116.426265 and lng > 116.40382 limit 8000
+2018-01-05 21:22:50,872 cast_time:0.0814929008484	sql:select * from position_record
+2018-01-05 21:22:51,061 cast_time:0.188810110092	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.905917 116.411094, 39.900197 116.411094, 39.900197 116.422316, 39.905917 116.422316))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.905917 and lat > 39.900197 
+        and lng < 116.422316 and lng > 116.411094 limit 8000
+2018-01-05 21:22:54,716 cast_time:0.0914671421051	sql:select * from position_record
+2018-01-05 21:22:54,858 cast_time:0.142160892487	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.908683 116.411126, 39.902963 116.411126, 39.902963 116.422349, 39.908683 116.422349))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.908683 and lat > 39.902963 
+        and lng < 116.422349 and lng > 116.411126 limit 8000
+2018-01-05 21:22:57,977 cast_time:0.0699980258942	sql:select * from position_record
+2018-01-05 21:22:58,138 cast_time:0.1605219841	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.911332 116.411223, 39.905613 116.411223, 39.905613 116.422445, 39.911332 116.422445))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.911332 and lat > 39.905613 
+        and lng < 116.422445 and lng > 116.411223 limit 8000
+2018-01-05 21:23:01,256 cast_time:0.0652928352356	sql:select * from position_record
+2018-01-05 21:23:01,419 cast_time:0.162692070007	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.915003 116.411427, 39.909283 116.411427, 39.909283 116.422649, 39.915003 116.422649))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.915003 and lat > 39.909283 
+        and lng < 116.422649 and lng > 116.411427 limit 8000
+2018-01-05 21:23:25,898 cast_time:0.0724248886108	sql:select * from position_record
+2018-01-05 21:23:26,316 cast_time:0.416819095612	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.907127 116.401878, 39.895687 116.401878, 39.895687 116.424323, 39.907127 116.424323))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.907127 and lat > 39.895687 
+        and lng < 116.424323 and lng > 116.401878 limit 8000
+2018-01-05 21:23:47,830 cast_time:0.597818136215	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:23:53,954 cast_time:0.0861170291901	sql:select * from position_record
+2018-01-05 21:23:54,181 cast_time:0.226938009262	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.910575 116.401138, 39.899135 116.401138, 39.899135 116.423582, 39.910575 116.423582))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.910575 and lat > 39.899135 
+        and lng < 116.423582 and lng > 116.401138 limit 8000
+2018-01-05 21:23:58,605 cast_time:0.0708758831024	sql:select * from position_record
+2018-01-05 21:23:58,877 cast_time:0.272534132004	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.910575 116.401138, 39.899135 116.401138, 39.899135 116.423582, 39.910575 116.423582))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.910575 and lat > 39.899135 
+        and lng < 116.423582 and lng > 116.401138 limit 8000
+2018-01-05 21:24:04,566 cast_time:0.0759401321411	sql:select * from position_record
+2018-01-05 21:24:04,810 cast_time:0.243381977081	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.910098 116.402575, 39.898658 116.402575, 39.898658 116.42502, 39.910098 116.42502))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.910098 and lat > 39.898658 
+        and lng < 116.42502 and lng > 116.402575 limit 8000
+2018-01-05 21:24:07,611 cast_time:0.121181964874	sql:select * from position_record
+2018-01-05 21:24:07,801 cast_time:0.190658092499	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.916402 116.402747, 39.904963 116.402747, 39.904963 116.425192, 39.916402 116.425192))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.916402 and lat > 39.904963 
+        and lng < 116.425192 and lng > 116.402747 limit 8000
+2018-01-05 21:24:15,230 cast_time:0.153046131134	sql:select * from position_record
+2018-01-05 21:24:15,428 cast_time:0.197480916977	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.913851 116.40103, 39.902411 116.40103, 39.902411 116.423475, 39.913851 116.423475))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.913851 and lat > 39.902411 
+        and lng < 116.423475 and lng > 116.40103 limit 8000
+2018-01-05 21:25:02,581 cast_time:0.967467069626	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:25:07,646 cast_time:0.0867838859558	sql:select * from position_record
+2018-01-05 21:25:07,888 cast_time:0.241811990738	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.91023 116.398799, 39.89879 116.398799, 39.89879 116.421244, 39.91023 116.421244))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.91023 and lat > 39.89879 
+        and lng < 116.421244 and lng > 116.398799 limit 8000
+2018-01-05 21:25:11,345 cast_time:0.069463968277	sql:select * from position_record
+2018-01-05 21:25:11,482 cast_time:0.136367082596	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.907613 116.405955, 39.901893 116.405955, 39.901893 116.417177, 39.907613 116.417177))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.907613 and lat > 39.901893 
+        and lng < 116.417177 and lng > 116.405955 limit 8000
+2018-01-05 21:25:13,799 cast_time:0.0722098350525	sql:select * from position_record
+2018-01-05 21:25:13,999 cast_time:0.19949889183	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.910361 116.398767, 39.898921 116.398767, 39.898921 116.421211, 39.910361 116.421211))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.910361 and lat > 39.898921 
+        and lng < 116.421211 and lng > 116.398767 limit 8000
+2018-01-05 21:25:40,311 cast_time:0.840358018875	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:25:44,991 cast_time:0.0978829860687	sql:select * from position_record
+2018-01-05 21:25:45,238 cast_time:0.2453520298	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.908814 116.399936, 39.897374 116.399936, 39.897374 116.422381, 39.908814 116.422381))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.908814 and lat > 39.897374 
+        and lng < 116.422381 and lng > 116.399936 limit 8000
+2018-01-05 21:25:49,710 cast_time:0.0871329307556	sql:select * from position_record
+2018-01-05 21:25:49,922 cast_time:0.211956977844	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.908814 116.399936, 39.897374 116.399936, 39.897374 116.422381, 39.908814 116.422381))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.908814 and lat > 39.897374 
+        and lng < 116.422381 and lng > 116.399936 limit 8000
+2018-01-05 21:25:54,320 cast_time:0.0774471759796	sql:select * from position_record
+2018-01-05 21:25:54,530 cast_time:0.209746837616	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.912847 116.399764, 39.901407 116.399764, 39.901407 116.422209, 39.912847 116.422209))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.912847 and lat > 39.901407 
+        and lng < 116.422209 and lng > 116.399764 limit 8000
+2018-01-05 21:26:00,133 cast_time:0.0939800739288	sql:select * from position_record
+2018-01-05 21:26:00,328 cast_time:0.194839954376	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.915019 116.40309, 39.90358 116.40309, 39.90358 116.425535, 39.915019 116.425535))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.915019 and lat > 39.90358 
+        and lng < 116.425535 and lng > 116.40309 limit 8000
+2018-01-05 21:26:03,246 cast_time:0.0715770721436	sql:select * from position_record
+2018-01-05 21:26:03,489 cast_time:0.242493152618	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.921602 116.407446, 39.910164 116.407446, 39.910164 116.429891, 39.921602 116.429891))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.921602 and lat > 39.910164 
+        and lng < 116.429891 and lng > 116.407446 limit 8000
+2018-01-05 21:26:11,382 cast_time:0.0755829811096	sql:select * from position_record
+2018-01-05 21:26:11,748 cast_time:0.365289926529	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.923725 116.4178, 39.918006 116.4178, 39.918006 116.429022, 39.923725 116.429022))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.923725 and lat > 39.918006 
+        and lng < 116.429022 and lng > 116.4178 limit 8000
+2018-01-05 21:26:13,479 cast_time:0.0721189975739	sql:select * from position_record
+2018-01-05 21:26:13,612 cast_time:0.132421970367	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.927074 116.419323, 39.921355 116.419323, 39.921355 116.430545, 39.927074 116.430545))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.927074 and lat > 39.921355 
+        and lng < 116.430545 and lng > 116.419323 limit 8000
+2018-01-05 21:26:15,859 cast_time:0.0732879638672	sql:select * from position_record
+2018-01-05 21:26:16,023 cast_time:0.163583993912	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.930241 116.422005, 39.924523 116.422005, 39.924523 116.433228, 39.930241 116.433228))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.930241 and lat > 39.924523 
+        and lng < 116.433228 and lng > 116.422005 limit 8000
+2018-01-05 21:26:18,360 cast_time:0.0672070980072	sql:select * from position_record
+2018-01-05 21:26:18,496 cast_time:0.135705947876	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.933877 116.426179, 39.92816 116.426179, 39.92816 116.437401, 39.933877 116.437401))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.933877 and lat > 39.92816 
+        and lng < 116.437401 and lng > 116.426179 limit 8000
+2018-01-05 21:26:21,293 cast_time:0.0741150379181	sql:select * from position_record
+2018-01-05 21:26:21,469 cast_time:0.176123857498	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.933861 116.434569, 39.928143 116.434569, 39.928143 116.445791, 39.933861 116.445791))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.933861 and lat > 39.928143 
+        and lng < 116.445791 and lng > 116.434569 limit 8000
+2018-01-05 21:26:23,956 cast_time:0.100999832153	sql:select * from position_record
+2018-01-05 21:26:24,381 cast_time:0.423903942108	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.937086 116.428882, 39.92565 116.428882, 39.92565 116.451327, 39.937086 116.451327))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.937086 and lat > 39.92565 
+        and lng < 116.451327 and lng > 116.428882 limit 8000
+2018-01-05 21:26:38,506 cast_time:0.0749099254608	sql:select * from position_record
+2018-01-05 21:26:39,239 cast_time:0.732241153717	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.936493 116.430106, 39.925058 116.430106, 39.925058 116.45255, 39.936493 116.45255))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.936493 and lat > 39.925058 
+        and lng < 116.45255 and lng > 116.430106 limit 8000
+2018-01-05 21:26:46,725 cast_time:0.0753200054169	sql:select * from position_record
+2018-01-05 21:26:47,122 cast_time:0.396811962128	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.932989 116.437723, 39.927271 116.437723, 39.927271 116.448945, 39.932989 116.448945))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.932989 and lat > 39.927271 
+        and lng < 116.448945 and lng > 116.437723 limit 8000
+2018-01-05 21:26:50,868 cast_time:0.0981590747833	sql:select * from position_record
+2018-01-05 21:26:51,089 cast_time:0.219580888748	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.936493 116.430106, 39.925058 116.430106, 39.925058 116.45255, 39.936493 116.45255))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.936493 and lat > 39.925058 
+        and lng < 116.45255 and lng > 116.430106 limit 8000
+2018-01-05 21:27:15,960 cast_time:0.655282020569	sql:select * from position_record
+2018-01-05 21:27:16,199 cast_time:0.238967895508	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.939044 116.430148, 39.927608 116.430148, 39.927608 116.452593, 39.939044 116.452593))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.939044 and lat > 39.927608 
+        and lng < 116.452593 and lng > 116.430148 limit 8000
+2018-01-05 21:27:18,465 cast_time:0.691113948822	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:27:25,714 cast_time:0.0813491344452	sql:select * from position_record
+2018-01-05 21:27:25,927 cast_time:0.2127161026	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.909983 116.404056, 39.898543 116.404056, 39.898543 116.426501, 39.909983 116.426501))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.909983 and lat > 39.898543 
+        and lng < 116.426501 and lng > 116.404056 limit 8000
+2018-01-05 21:27:30,458 cast_time:0.0746781826019	sql:select * from position_record
+2018-01-05 21:27:30,636 cast_time:0.177415132523	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.914822 116.40412, 39.903382 116.40412, 39.903382 116.426565, 39.914822 116.426565))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.914822 and lat > 39.903382 
+        and lng < 116.426565 and lng > 116.40412 limit 8000
+2018-01-05 21:27:41,495 cast_time:0.0881409645081	sql:select * from position_record
+2018-01-05 21:27:41,695 cast_time:0.199650764465	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.943321 116.426694, 39.931886 116.426694, 39.931886 116.449139, 39.943321 116.449139))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.943321 and lat > 39.931886 
+        and lng < 116.449139 and lng > 116.426694 limit 8000
+2018-01-05 21:27:47,433 cast_time:0.0902771949768	sql:select * from position_record
+2018-01-05 21:27:47,580 cast_time:0.146813154221	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.94087 116.43385, 39.935153 116.43385, 39.935153 116.445072, 39.94087 116.445072))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.94087 and lat > 39.935153 
+        and lng < 116.445072 and lng > 116.43385 limit 8000
+2018-01-05 21:27:49,787 cast_time:0.0693831443787	sql:select * from position_record
+2018-01-05 21:27:49,958 cast_time:0.170743942261	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.943477 116.434644, 39.93776 116.434644, 39.93776 116.445866, 39.943477 116.445866))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.943477 and lat > 39.93776 
+        and lng < 116.445866 and lng > 116.434644 limit 8000
+2018-01-05 21:27:53,679 cast_time:0.200171947479	sql:select * from position_record
+2018-01-05 21:27:53,823 cast_time:0.143841981888	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.947022 116.435288, 39.941306 116.435288, 39.941306 116.44651, 39.947022 116.44651))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.947022 and lat > 39.941306 
+        and lng < 116.44651 and lng > 116.435288 limit 8000
+2018-01-05 21:27:57,168 cast_time:0.0771090984344	sql:select * from position_record
+2018-01-05 21:27:57,415 cast_time:0.246165037155	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.952977 116.429322, 39.941544 116.429322, 39.941544 116.451767, 39.952977 116.451767))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.952977 and lat > 39.941544 
+        and lng < 116.451767 and lng > 116.429322 limit 8000
+2018-01-05 21:28:28,262 cast_time:0.734122991562	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:28:33,208 cast_time:0.0710129737854	sql:select * from position_record
+2018-01-05 21:28:33,679 cast_time:0.470686197281	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.908979 116.404549, 39.897539 116.404549, 39.897539 116.426994, 39.908979 116.426994))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.908979 and lat > 39.897539 
+        and lng < 116.426994 and lng > 116.404549 limit 8000
+2018-01-05 21:28:39,277 cast_time:0.100449085236	sql:select * from position_record
+2018-01-05 21:28:39,506 cast_time:0.228681087494	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.908979 116.404549, 39.897539 116.404549, 39.897539 116.426994, 39.908979 116.426994))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.908979 and lat > 39.897539 
+        and lng < 116.426994 and lng > 116.404549 limit 8000
+2018-01-05 21:28:44,206 cast_time:0.0695281028748	sql:select * from position_record
+2018-01-05 21:28:44,398 cast_time:0.192148923874	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.914591 116.405322, 39.903152 116.405322, 39.903152 116.427767, 39.914591 116.427767))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.914591 and lat > 39.903152 
+        and lng < 116.427767 and lng > 116.405322 limit 8000
+2018-01-05 21:28:49,752 cast_time:0.0722389221191	sql:select * from position_record
+2018-01-05 21:28:49,942 cast_time:0.190346002579	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.914558 116.405451, 39.903119 116.405451, 39.903119 116.427895, 39.914558 116.427895))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.914558 and lat > 39.903119 
+        and lng < 116.427895 and lng > 116.405451 limit 8000
+2018-01-05 21:28:52,803 cast_time:0.0696420669556	sql:select * from position_record
+2018-01-05 21:28:53,038 cast_time:0.233512878418	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.920187 116.406502, 39.908748 116.406502, 39.908748 116.428947, 39.920187 116.428947))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.920187 and lat > 39.908748 
+        and lng < 116.428947 and lng > 116.406502 limit 8000
+2018-01-05 21:28:56,320 cast_time:0.0891199111938	sql:select * from position_record
+2018-01-05 21:28:56,453 cast_time:0.133193969727	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.91599 116.418669, 39.913131 116.418669, 39.913131 116.42428, 39.91599 116.42428))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.91599 and lat > 39.913131 
+        and lng < 116.42428 and lng > 116.418669 limit 8000
+2018-01-05 21:28:58,597 cast_time:0.0654740333557	sql:select * from position_record
+2018-01-05 21:28:58,760 cast_time:0.162904024124	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.917702 116.414613, 39.911983 116.414613, 39.911983 116.425836, 39.917702 116.425836))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.917702 and lat > 39.911983 
+        and lng < 116.425836 and lng > 116.414613 limit 8000
+2018-01-05 21:29:02,116 cast_time:0.074718952179	sql:select * from position_record
+2018-01-05 21:29:02,321 cast_time:0.204805850983	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.921125 116.406502, 39.909687 116.406502, 39.909687 116.428947, 39.921125 116.428947))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.921125 and lat > 39.909687 
+        and lng < 116.428947 and lng > 116.406502 limit 8000
+2018-01-05 21:29:11,990 cast_time:0.074606180191	sql:select * from position_record
+2018-01-05 21:29:12,195 cast_time:0.204923868179	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.921981 116.402876, 39.910542 116.402876, 39.910542 116.425321, 39.921981 116.425321))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.921981 and lat > 39.910542 
+        and lng < 116.425321 and lng > 116.402876 limit 8000
+2018-01-05 21:29:43,134 cast_time:0.848798036575	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:29:57,264 cast_time:0.076534986496	sql:select * from position_record
+2018-01-05 21:29:57,489 cast_time:0.224828004837	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.907794 116.400558, 39.896353 116.400558, 39.896353 116.423003, 39.907794 116.423003))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.907794 and lat > 39.896353 
+        and lng < 116.423003 and lng > 116.400558 limit 8000
+2018-01-05 21:30:03,362 cast_time:0.118235111237	sql:select * from position_record
+2018-01-05 21:30:03,807 cast_time:0.444238901138	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.91232 116.401331, 39.90088 116.401331, 39.90088 116.423776, 39.91232 116.423776))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.91232 and lat > 39.90088 
+        and lng < 116.423776 and lng > 116.401331 limit 8000
+2018-01-05 21:30:12,229 cast_time:0.0996220111847	sql:select * from position_record
+2018-01-05 21:30:12,450 cast_time:0.221009016037	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.909292 116.402017, 39.897851 116.402017, 39.897851 116.424462, 39.909292 116.424462))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.909292 and lat > 39.897851 
+        and lng < 116.424462 and lng > 116.402017 limit 8000
+2018-01-05 21:30:16,999 cast_time:0.110529184341	sql:select * from position_record
+2018-01-05 21:30:17,188 cast_time:0.188218832016	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.916517 116.402704, 39.905078 116.402704, 39.905078 116.425149, 39.916517 116.425149))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.916517 and lat > 39.905078 
+        and lng < 116.425149 and lng > 116.402704 limit 8000
+2018-01-05 21:30:22,132 cast_time:0.0727360248566	sql:select * from position_record
+2018-01-05 21:30:22,315 cast_time:0.182846069336	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.922211 116.403756, 39.910773 116.403756, 39.910773 116.4262, 39.922211 116.4262))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.922211 and lat > 39.910773 
+        and lng < 116.4262 and lng > 116.403756 limit 8000
+2018-01-05 21:30:29,271 cast_time:0.0765819549561	sql:select * from position_record
+2018-01-05 21:30:29,445 cast_time:0.17419219017	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.919932 116.411459, 39.914213 116.411459, 39.914213 116.422681, 39.919932 116.422681))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.919932 and lat > 39.914213 
+        and lng < 116.422681 and lng > 116.411459 limit 8000
+2018-01-05 21:30:33,134 cast_time:0.0831830501556	sql:select * from position_record
+2018-01-05 21:30:33,288 cast_time:0.152338027954	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.918669 116.415536, 39.915809 116.415536, 39.915809 116.421147, 39.918669 116.421147))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.918669 and lat > 39.915809 
+        and lng < 116.421147 and lng > 116.415536 limit 8000
+2018-01-05 21:30:36,749 cast_time:0.0735080242157	sql:select * from position_record
+2018-01-05 21:30:36,904 cast_time:0.154792070389	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.919788 116.41155, 39.914069 116.41155, 39.914069 116.422772, 39.919788 116.422772))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.919788 and lat > 39.914069 
+        and lng < 116.422772 and lng > 116.41155 limit 8000
+2018-01-05 21:30:41,979 cast_time:0.0698969364166	sql:select * from position_record
+2018-01-05 21:30:42,179 cast_time:0.199460983276	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.922264 116.403675, 39.910826 116.403675, 39.910826 116.42612, 39.922264 116.42612))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.922264 and lat > 39.910826 
+        and lng < 116.42612 and lng > 116.403675 limit 8000
+2018-01-05 21:31:30,994 cast_time:0.66611289978	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:32:11,258 cast_time:0.69202709198	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:32:20,680 cast_time:0.722434043884	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:32:27,671 cast_time:0.0725591182709	sql:select * from position_record
+2018-01-05 21:32:27,949 cast_time:0.278214931488	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.910049 116.401202, 39.898609 116.401202, 39.898609 116.423647, 39.910049 116.423647))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.910049 and lat > 39.898609 
+        and lng < 116.423647 and lng > 116.401202 limit 8000
+2018-01-05 21:32:32,890 cast_time:0.205868005753	sql:select * from position_record
+2018-01-05 21:32:33,114 cast_time:0.222343921661	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.910378 116.401781, 39.898938 116.401781, 39.898938 116.424226, 39.910378 116.424226))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.910378 and lat > 39.898938 
+        and lng < 116.424226 and lng > 116.401781 limit 8000
+2018-01-05 21:32:36,539 cast_time:0.0905680656433	sql:select * from position_record
+2018-01-05 21:32:36,674 cast_time:0.135151147842	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.906588 116.412516, 39.903728 116.412516, 39.903728 116.418127, 39.906588 116.418127))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.906588 and lat > 39.903728 
+        and lng < 116.418127 and lng > 116.412516 limit 8000
+2018-01-05 21:32:39,572 cast_time:0.0793130397797	sql:select * from position_record
+2018-01-05 21:32:39,703 cast_time:0.130567073822	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.908036 116.412634, 39.905177 116.412634, 39.905177 116.418245, 39.908036 116.418245))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.908036 and lat > 39.905177 
+        and lng < 116.418245 and lng > 116.412634 limit 8000
+2018-01-05 21:32:42,031 cast_time:0.109917879105	sql:select * from position_record
+2018-01-05 21:32:42,169 cast_time:0.13796210289	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.909966 116.412795, 39.907107 116.412795, 39.907107 116.418406, 39.909966 116.418406))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.909966 and lat > 39.907107 
+        and lng < 116.418406 and lng > 116.412795 limit 8000
+2018-01-05 21:32:44,714 cast_time:0.0750951766968	sql:select * from position_record
+2018-01-05 21:32:44,891 cast_time:0.175145149231	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.912102 116.40927, 39.906382 116.40927, 39.906382 116.420493, 39.912102 116.420493))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.912102 and lat > 39.906382 
+        and lng < 116.420493 and lng > 116.40927 limit 8000
+2018-01-05 21:32:48,059 cast_time:0.0679609775543	sql:select * from position_record
+2018-01-05 21:32:48,242 cast_time:0.182052850723	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.915509 116.402189, 39.90407 116.402189, 39.90407 116.424634, 39.915509 116.424634))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.915509 and lat > 39.90407 
+        and lng < 116.424634 and lng > 116.402189 limit 8000
+2018-01-05 21:33:11,530 cast_time:0.564582109451	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:33:18,652 cast_time:0.0720989704132	sql:select * from position_record
+2018-01-05 21:33:18,891 cast_time:0.239356994629	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.909423 116.400773, 39.897983 116.400773, 39.897983 116.423218, 39.909423 116.423218))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.909423 and lat > 39.897983 
+        and lng < 116.423218 and lng > 116.400773 limit 8000
+2018-01-05 21:33:23,726 cast_time:0.0709059238434	sql:select * from position_record
+2018-01-05 21:33:23,920 cast_time:0.193469047546	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.909423 116.400773, 39.897983 116.400773, 39.897983 116.423218, 39.909423 116.423218))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.909423 and lat > 39.897983 
+        and lng < 116.423218 and lng > 116.400773 limit 8000
+2018-01-05 21:33:26,110 cast_time:0.0686950683594	sql:select * from position_record
+2018-01-05 21:33:26,412 cast_time:0.300701141357	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.905349 116.410751, 39.902489 116.410751, 39.902489 116.416362, 39.905349 116.416362))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.905349 and lat > 39.902489 
+        and lng < 116.416362 and lng > 116.410751 limit 8000
+2018-01-05 21:33:29,050 cast_time:0.0696949958801	sql:select * from position_record
+2018-01-05 21:33:29,207 cast_time:0.156715154648	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.906703 116.407409, 39.900983 116.407409, 39.900983 116.418631, 39.906703 116.418631))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.906703 and lat > 39.900983 
+        and lng < 116.418631 and lng > 116.407409 limit 8000
+2018-01-05 21:34:55,797 cast_time:0.561447143555	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:35:02,019 cast_time:0.102727174759	sql:select * from position_record
+2018-01-05 21:35:02,149 cast_time:0.129492998123	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.908123 116.406438, 39.902403 116.406438, 39.902403 116.41766, 39.908123 116.41766))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.908123 and lat > 39.902403 
+        and lng < 116.41766 and lng > 116.406438 limit 8000
+2018-01-05 21:35:03,997 cast_time:0.095664024353	sql:select * from position_record
+2018-01-05 21:35:04,214 cast_time:0.216527938843	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.910608 116.399872, 39.899168 116.399872, 39.899168 116.422316, 39.910608 116.422316))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.910608 and lat > 39.899168 
+        and lng < 116.422316 and lng > 116.399872 limit 8000
+2018-01-05 21:35:36,866 cast_time:0.0770452022552	sql:select * from position_record
+2018-01-05 21:35:37,082 cast_time:0.215070962906	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.910608 116.399872, 39.899168 116.399872, 39.899168 116.422316, 39.910608 116.422316))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.910608 and lat > 39.899168 
+        and lng < 116.422316 and lng > 116.399872 limit 8000
+2018-01-05 21:35:42,158 cast_time:0.589266061783	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:35:47,238 cast_time:0.0844480991364	sql:select * from position_record
+2018-01-05 21:35:48,021 cast_time:0.781816959381	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.909407 116.397554, 39.897967 116.397554, 39.897967 116.419999, 39.909407 116.419999))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.909407 and lat > 39.897967 
+        and lng < 116.419999 and lng > 116.397554 limit 8000
+2018-01-05 21:35:54,576 cast_time:0.205446004868	sql:select * from position_record
+2018-01-05 21:35:54,730 cast_time:0.154134988785	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.906642 116.40367, 39.900921 116.40367, 39.900921 116.414892, 39.906642 116.414892))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.906642 and lat > 39.900921 
+        and lng < 116.414892 and lng > 116.40367 limit 8000
+2018-01-05 21:35:56,474 cast_time:0.0673880577087	sql:select * from position_record
+2018-01-05 21:35:56,591 cast_time:0.116876125336	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.905259 116.406738, 39.902399 116.406738, 39.902399 116.412349, 39.905259 116.412349))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.905259 and lat > 39.902399 
+        and lng < 116.412349 and lng > 116.406738 limit 8000
+2018-01-05 21:35:59,354 cast_time:0.069226026535	sql:select * from position_record
+2018-01-05 21:35:59,479 cast_time:0.125133991241	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.906642 116.40367, 39.900921 116.40367, 39.900921 116.414892, 39.906642 116.414892))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.906642 and lat > 39.900921 
+        and lng < 116.414892 and lng > 116.40367 limit 8000
+2018-01-05 21:36:31,356 cast_time:0.588749885559	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:36:40,569 cast_time:0.0883800983429	sql:select * from position_record
+2018-01-05 21:36:40,798 cast_time:0.228301048279	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.917389 116.407039, 39.90595 116.407039, 39.90595 116.429483, 39.917389 116.429483))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.917389 and lat > 39.90595 
+        and lng < 116.429483 and lng > 116.407039 limit 8000
+2018-01-05 21:36:45,164 cast_time:0.0917229652405	sql:select * from position_record
+2018-01-05 21:36:45,376 cast_time:0.212016820908	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.917389 116.407039, 39.90595 116.407039, 39.90595 116.429483, 39.917389 116.429483))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.917389 and lat > 39.90595 
+        and lng < 116.429483 and lng > 116.407039 limit 8000
+2018-01-05 21:36:47,862 cast_time:0.0762429237366	sql:select * from position_record
+2018-01-05 21:36:47,985 cast_time:0.122536182404	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.912785 116.416904, 39.909925 116.416904, 39.909925 116.422515, 39.912785 116.422515))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.912785 and lat > 39.909925 
+        and lng < 116.422515 and lng > 116.416904 limit 8000
+2018-01-05 21:36:50,983 cast_time:0.0929610729218	sql:select * from position_record
+2018-01-05 21:36:51,150 cast_time:0.165871858597	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.91432 116.413615, 39.9086 116.413615, 39.9086 116.424838, 39.91432 116.424838))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.91432 and lat > 39.9086 
+        and lng < 116.424838 and lng > 116.413615 limit 8000
+2018-01-05 21:36:53,752 cast_time:0.0713751316071	sql:select * from position_record
+2018-01-05 21:36:53,937 cast_time:0.184162139893	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.917389 116.407039, 39.90595 116.407039, 39.90595 116.429483, 39.917389 116.429483))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.917389 and lat > 39.90595 
+        and lng < 116.429483 and lng > 116.407039 limit 8000
+2018-01-05 21:36:58,842 cast_time:0.0748460292816	sql:select * from position_record
+2018-01-05 21:36:59,027 cast_time:0.185117006302	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.917389 116.407039, 39.90595 116.407039, 39.90595 116.429483, 39.917389 116.429483))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.917389 and lat > 39.90595 
+        and lng < 116.429483 and lng > 116.407039 limit 8000
+2018-01-05 21:37:04,669 cast_time:0.0868940353394	sql:select * from position_record
+2018-01-05 21:37:04,943 cast_time:0.274115085602	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.914476 116.413175, 39.908757 116.413175, 39.908757 116.424398, 39.914476 116.424398))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.914476 and lat > 39.908757 
+        and lng < 116.424398 and lng > 116.413175 limit 8000
+2018-01-05 21:37:06,859 cast_time:0.0684380531311	sql:select * from position_record
+2018-01-05 21:37:07,035 cast_time:0.176014900208	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.917743 116.413229, 39.912024 116.413229, 39.912024 116.424451, 39.917743 116.424451))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.917743 and lat > 39.912024 
+        and lng < 116.424451 and lng > 116.413229 limit 8000
+2018-01-05 21:37:09,975 cast_time:0.0721800327301	sql:select * from position_record
+2018-01-05 21:37:10,306 cast_time:0.33055305481	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.921964 116.413497, 39.916245 116.413497, 39.916245 116.42472, 39.921964 116.42472))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.921964 and lat > 39.916245 
+        and lng < 116.42472 and lng > 116.413497 limit 8000
+2018-01-05 21:37:13,336 cast_time:0.305442094803	sql:select * from position_record
+2018-01-05 21:37:13,561 cast_time:0.225136995316	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.926177 116.406395, 39.914739 116.406395, 39.914739 116.42884, 39.926177 116.42884))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.926177 and lat > 39.914739 
+        and lng < 116.42884 and lng > 116.406395 limit 8000
+2018-01-05 21:37:33,905 cast_time:0.635951042175	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:37:38,004 cast_time:0.084193944931	sql:select * from position_record
+2018-01-05 21:37:38,300 cast_time:0.295272111893	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.909357 116.392533, 39.897917 116.392533, 39.897917 116.414978, 39.909357 116.414978))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.909357 and lat > 39.897917 
+        and lng < 116.414978 and lng > 116.392533 limit 8000
+2018-01-05 21:37:44,382 cast_time:0.0730268955231	sql:select * from position_record
+2018-01-05 21:37:44,577 cast_time:0.194479942322	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.906921 116.392941, 39.895481 116.392941, 39.895481 116.415386, 39.906921 116.415386))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.906921 and lat > 39.895481 
+        and lng < 116.415386 and lng > 116.392941 limit 8000
+2018-01-05 21:37:48,140 cast_time:0.0687141418457	sql:select * from position_record
+2018-01-05 21:37:48,352 cast_time:0.210953950882	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.90037 116.393263, 39.888928 116.393263, 39.888928 116.415707, 39.90037 116.415707))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.90037 and lat > 39.888928 
+        and lng < 116.415707 and lng > 116.393263 limit 8000
+2018-01-05 21:37:53,623 cast_time:0.0773830413818	sql:select * from position_record
+2018-01-05 21:37:53,829 cast_time:0.204813957214	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.90037 116.393263, 39.888928 116.393263, 39.888928 116.415707, 39.90037 116.415707))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.90037 and lat > 39.888928 
+        and lng < 116.415707 and lng > 116.393263 limit 8000
+2018-01-05 21:37:56,427 cast_time:0.0712380409241	sql:select * from position_record
+2018-01-05 21:37:56,618 cast_time:0.190726995468	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.906724 116.393177, 39.895283 116.393177, 39.895283 116.415622, 39.906724 116.415622))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.906724 and lat > 39.895283 
+        and lng < 116.415622 and lng > 116.393177 limit 8000
+2018-01-05 21:37:59,157 cast_time:0.0864460468292	sql:select * from position_record
+2018-01-05 21:37:59,411 cast_time:0.252977132797	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.912073 116.393263, 39.900633 116.393263, 39.900633 116.415707, 39.912073 116.415707))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.912073 and lat > 39.900633 
+        and lng < 116.415707 and lng > 116.393263 limit 8000
+2018-01-05 21:38:03,652 cast_time:0.072322845459	sql:select * from position_record
+2018-01-05 21:38:03,875 cast_time:0.222756147385	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.913423 116.393263, 39.901983 116.393263, 39.901983 116.415707, 39.913423 116.415707))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.913423 and lat > 39.901983 
+        and lng < 116.415707 and lng > 116.393263 limit 8000
+2018-01-05 21:38:06,192 cast_time:0.0894629955292	sql:select * from position_record
+2018-01-05 21:38:06,348 cast_time:0.155550956726	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.910131 116.400526, 39.904411 116.400526, 39.904411 116.411749, 39.910131 116.411749))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.910131 and lat > 39.904411 
+        and lng < 116.411749 and lng > 116.400526 limit 8000
+2018-01-05 21:38:11,769 cast_time:0.0747191905975	sql:select * from position_record
+2018-01-05 21:38:11,929 cast_time:0.15989613533	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.909687 116.400526, 39.903967 116.400526, 39.903967 116.411749, 39.909687 116.411749))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.909687 and lat > 39.903967 
+        and lng < 116.411749 and lng > 116.400526 limit 8000
+2018-01-05 21:38:13,380 cast_time:0.0669300556183	sql:select * from position_record
+2018-01-05 21:38:13,536 cast_time:0.155107975006	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.91209 116.400805, 39.90637 116.400805, 39.90637 116.412027, 39.91209 116.412027))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.91209 and lat > 39.90637 
+        and lng < 116.412027 and lng > 116.400805 limit 8000
+2018-01-05 21:38:15,839 cast_time:0.068461894989	sql:select * from position_record
+2018-01-05 21:38:16,272 cast_time:0.432709932327	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.914476 116.400934, 39.908757 116.400934, 39.908757 116.412156, 39.914476 116.412156))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.914476 and lat > 39.908757 
+        and lng < 116.412156 and lng > 116.400934 limit 8000
+2018-01-05 21:38:18,652 cast_time:0.072557926178	sql:select * from position_record
+2018-01-05 21:38:18,782 cast_time:0.130008935928	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.917397 116.401191, 39.911678 116.401191, 39.911678 116.412414, 39.917397 116.412414))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.917397 and lat > 39.911678 
+        and lng < 116.412414 and lng > 116.401191 limit 8000
+2018-01-05 21:38:21,910 cast_time:0.0864789485931	sql:select * from position_record
+2018-01-05 21:38:22,093 cast_time:0.182703971863	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.921742 116.393885, 39.910304 116.393885, 39.910304 116.41633, 39.921742 116.41633))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.921742 and lat > 39.910304 
+        and lng < 116.41633 and lng > 116.393885 limit 8000
+2018-01-05 21:40:11,659 cast_time:0.872792005539	sql:select geohash8 as geohash, COUNT(*) as counts from real_position_zgd WHERE city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 21:40:20,366 cast_time:0.0843741893768	sql:select * from position_record
+2018-01-05 21:40:20,570 cast_time:0.203327894211	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2030 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.911217 116.402468, 39.899777 116.402468, 39.899777 116.424913, 39.911217 116.424913))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.911217 and lat > 39.899777 
+        and lng < 116.424913 and lng > 116.402468 limit 8000
+2018-01-05 21:48:47,657 cast_time:0.127544164658	sql:select position_tab, dt, mt from position_record
+2018-01-05 21:48:48,466 cast_time:0.80869603157	sql:select geohash8 as geohash, COUNT(*) as counts from real_position WHERE dt = 20180105 and mt= 2030 and city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-05 22:26:17,212 cast_time:0.138170957565	sql:select * from position_record
+2018-01-05 22:26:17,712 cast_time:0.498550891876	sql:select lat, lng, carno from real_position WHERE dt = 20180105 and mt = 2200 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39 116, 39 117, 40 117, 40 116))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 40 and lat > 39 
+        and lng < 117 and lng > 116 limit 8000
+2018-01-05 22:26:39,511 cast_time:0.178690910339	sql:select name from t_rail where id=21364 
+2018-01-09 10:36:07,853 cast_time:0.252278804779	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-09 10:37:36,276 cast_time:0.21225810051	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-09 10:39:13,926 cast_time:0.146596908569	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-09 10:39:39,370 cast_time:0.198802947998	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-09 10:42:06,055 cast_time:0.218404054642	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-09 10:42:13,379 cast_time:0.0360310077667	sql:select name from t_rail where id=21392 
+2018-01-09 10:54:35,213 cast_time:1.59350514412	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-09 10:54:43,052 cast_time:0.118309020996	sql:select name from t_rail where id=21373 
+2018-01-09 10:54:45,470 cast_time:0.0751459598541	sql:select name from t_rail where id=21392 
+2018-01-09 10:54:47,945 cast_time:0.152725934982	sql:select name from t_rail where id=21364 
+2018-01-09 10:54:49,733 cast_time:0.0768520832062	sql:select name from t_rail where id=21359 
+2018-01-09 10:54:51,766 cast_time:0.0827050209045	sql:select name from t_rail where id=28088 
+2018-01-09 10:54:53,670 cast_time:0.0805079936981	sql:select name from t_rail where id=22564 
+2018-01-09 10:54:55,473 cast_time:0.0827140808105	sql:select name from t_rail where id=22576 
+2018-01-09 10:54:58,585 cast_time:0.069354057312	sql:select name from t_rail where id=21373 
+2018-01-09 10:55:32,783 cast_time:0.347422838211	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-09 11:06:11,459 cast_time:0.311570167542	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-09 11:07:20,079 cast_time:0.0713849067688	sql:select name from t_rail where id=21516 
+2018-01-09 11:07:45,931 cast_time:0.169679880142	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-09 11:07:54,021 cast_time:0.0415079593658	sql:select name from t_rail where id=21364 
+2018-01-09 14:18:55,235 cast_time:0.176113843918	sql:select name from t_rail where id=21516 
+2018-01-09 14:29:50,153 cast_time:0.0823259353638	sql:select name from t_rail where id=21516 
+2018-01-09 14:31:45,764 cast_time:0.0646760463715	sql:select name from t_rail where id=21516 
+2018-01-09 14:32:29,136 cast_time:0.0339078903198	sql:select name from t_rail where id=21516 
+2018-01-09 14:33:11,748 cast_time:0.0352821350098	sql:select name from t_rail where id=21516 
+2018-01-09 14:34:11,274 cast_time:0.0356051921844	sql:select name from t_rail where id=21373 
+2018-01-09 14:38:17,136 cast_time:0.0692579746246	sql:select name from t_rail where id=21516 
+2018-01-09 14:40:25,631 cast_time:0.0970480442047	sql:select name from t_rail where id=21516 
+2018-01-09 14:47:20,873 cast_time:0.317124843597	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
+2018-01-09 14:47:26,929 cast_time:0.0915579795837	sql:select name from t_rail where id=21364 
+2018-01-09 14:47:29,606 cast_time:0.0726311206818	sql:select name from t_rail where id=21359 
+2018-01-09 14:47:31,855 cast_time:0.147480964661	sql:select name from t_rail where id=28088 
+2018-01-09 14:47:33,948 cast_time:0.0731971263885	sql:select name from t_rail where id=29369 
+2018-01-09 14:47:35,967 cast_time:0.16498208046	sql:select name from t_rail where id=22564 
+2018-01-09 14:47:37,583 cast_time:0.0804750919342	sql:select name from t_rail where id=21371 
+2018-01-09 14:47:40,023 cast_time:0.0783040523529	sql:select name from t_rail where id=21373 
+2018-01-09 14:47:42,862 cast_time:0.0723030567169	sql:select name from t_rail where id=21363 
+2018-01-09 14:47:44,205 cast_time:0.0724339485168	sql:select name from t_rail where id=21360 
+2018-01-09 14:47:45,706 cast_time:0.0743680000305	sql:select name from t_rail where id=21357 
+2018-01-09 14:47:48,490 cast_time:0.0653071403503	sql:select position_tab, dt, mt from position_record
+2018-01-09 14:47:48,846 cast_time:0.355465888977	sql:select geohash8 as geohash, COUNT(*) as counts from real_position WHERE dt = 20180108 and mt= 1400 and city='北京市' group by geohash8
+                order by counts desc limit 10000
+2018-01-09 14:47:54,026 cast_time:0.0723359584808	sql:select * from position_record
+2018-01-09 14:47:54,214 cast_time:0.187376976013	sql:select lat, lng, carno from real_position WHERE dt = 20180108 and mt = 1400 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.908403 116.395902, 39.898526 116.395902, 39.898526 116.419205, 39.908403 116.419205))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.908403 and lat > 39.898526 
+        and lng < 116.419205 and lng > 116.395902 limit 8000
+2018-01-09 14:47:58,200 cast_time:0.0782990455627	sql:select * from position_record
+2018-01-09 14:47:58,388 cast_time:0.187839984894	sql:select lat, lng, carno from real_position WHERE dt = 20180108 and mt = 1400 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.905094 116.404228, 39.900156 116.404228, 39.900156 116.415879, 39.905094 116.415879))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.905094 and lat > 39.900156 
+        and lng < 116.415879 and lng > 116.404228 limit 8000
+2018-01-09 14:48:00,756 cast_time:0.0904459953308	sql:select * from position_record
+2018-01-09 14:48:00,893 cast_time:0.136113166809	sql:select lat, lng, carno from real_position WHERE dt = 20180108 and mt = 1400 and ST_Contains(
+        ST_GeometryFromText('POLYGON ((39.903127 116.404442, 39.898189 116.404442, 39.898189 116.416094, 39.903127 116.416094))'),
+        ST_Point(lat, lng)) and geohash8 is not NULL and lat <= 39.903127 and lat > 39.898189 
+        and lng < 116.416094 and lng > 116.404442 limit 8000
+2018-01-15 20:07:59,205 cast_time:0.293604135513	sql:select b.id, b.name, b.path from t_city a join t_rail b on a.city_code=b.city_id where a.city='北京市'               and b.deleted=0
